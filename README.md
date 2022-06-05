@@ -5,4 +5,4 @@
 
 <ファイル内容>
 super-resolutin.ipynb : スペクトログラムに対して, 2D-Conv を用いて超解像を行った.\
-GAN_celp_to_wav_8000.ipynb : サンプリングレート8k の 非可逆圧縮(celp)を施した音声を, GAN を用いて超解像を行った.
+GAN_celp_to_wav_8000.ipynb : サンプリングレート8k の 非可逆圧縮(celp)を施した音声を, GAN を用いて超解像を行った.　(2022/06/06)
